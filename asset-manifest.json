@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/analytics-dashboard/static/css/main.c5c86689.css",
-    "main.js": "/analytics-dashboard/static/js/main.583b6954.js",
+    "main.js": "/analytics-dashboard/static/js/main.9160b08c.js",
     "static/js/787.2b8f7fac.chunk.js": "/analytics-dashboard/static/js/787.2b8f7fac.chunk.js",
     "static/media/currency-exchange-2.svg": "/analytics-dashboard/static/media/currency-exchange-2.d55ca3d0eff5ef6facc531fc0ad94ec5.svg",
     "static/media/bitcoin-2.svg": "/analytics-dashboard/static/media/bitcoin-2.0fc290eeb06eee20779df88fe636d2d0.svg",
@@ -15,11 +15,11 @@
     "static/media/sound-wave.svg": "/analytics-dashboard/static/media/sound-wave.7435b6881c236a8829eba87f62f9532a.svg",
     "static/media/e-add.svg": "/analytics-dashboard/static/media/e-add.5867d9164537166ae16f130b8be8cc6c.svg",
     "main.c5c86689.css.map": "/analytics-dashboard/static/css/main.c5c86689.css.map",
-    "main.583b6954.js.map": "/analytics-dashboard/static/js/main.583b6954.js.map",
+    "main.9160b08c.js.map": "/analytics-dashboard/static/js/main.9160b08c.js.map",
     "787.2b8f7fac.chunk.js.map": "/analytics-dashboard/static/js/787.2b8f7fac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5c86689.css",
-    "static/js/main.583b6954.js"
+    "static/js/main.9160b08c.js"
   ]
 }
