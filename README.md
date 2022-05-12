@@ -1,3 +1,12 @@
+# A dashboard page for looking up your portfolio investments
+### Main Features -
+1. 2 pages - Login page followed by our dashboard
+2. Used React Router for the above
+3. UI library used is ReactStrap (Bootstrap for React)
+4. Fully responsive
+
+### View deployment by [clicking here](ashutosh44ks.github.io/analytics-dashboard/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
