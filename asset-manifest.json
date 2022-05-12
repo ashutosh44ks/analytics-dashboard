@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/analytics-dashboard/static/css/main.b0eec5d2.css",
-    "main.js": "/analytics-dashboard/static/js/main.c72ef9fa.js",
+    "main.css": "/analytics-dashboard/static/css/main.48d6db70.css",
+    "main.js": "/analytics-dashboard/static/js/main.7eb63c3f.js",
     "static/js/787.2b8f7fac.chunk.js": "/analytics-dashboard/static/js/787.2b8f7fac.chunk.js",
     "static/media/user-svgrepo-com.svg": "/analytics-dashboard/static/media/user-svgrepo-com.69e7ba79156bb1ced3a73eded41d4583.svg",
     "static/media/currency-exchange-2.svg": "/analytics-dashboard/static/media/currency-exchange-2.d55ca3d0eff5ef6facc531fc0ad94ec5.svg",
@@ -19,12 +19,12 @@
     "static/media/down-svgrepo-com.svg": "/analytics-dashboard/static/media/down-svgrepo-com.91f62b0fac68b6dae4549b58a6ba9e03.svg",
     "static/media/e-add.svg": "/analytics-dashboard/static/media/e-add.5867d9164537166ae16f130b8be8cc6c.svg",
     "static/media/up-svgrepo-com.svg": "/analytics-dashboard/static/media/up-svgrepo-com.ad389452973635840e091e3bcc0bb55a.svg",
-    "main.b0eec5d2.css.map": "/analytics-dashboard/static/css/main.b0eec5d2.css.map",
-    "main.c72ef9fa.js.map": "/analytics-dashboard/static/js/main.c72ef9fa.js.map",
+    "main.48d6db70.css.map": "/analytics-dashboard/static/css/main.48d6db70.css.map",
+    "main.7eb63c3f.js.map": "/analytics-dashboard/static/js/main.7eb63c3f.js.map",
     "787.2b8f7fac.chunk.js.map": "/analytics-dashboard/static/js/787.2b8f7fac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0eec5d2.css",
-    "static/js/main.c72ef9fa.js"
+    "static/css/main.48d6db70.css",
+    "static/js/main.7eb63c3f.js"
   ]
 }
