@@ -1,9 +1,12 @@
 {
   "files": {
-    "main.css": "/analytics-dashboard/static/css/main.c5c86689.css",
-    "main.js": "/analytics-dashboard/static/js/main.9160b08c.js",
+    "main.css": "/analytics-dashboard/static/css/main.b0eec5d2.css",
+    "main.js": "/analytics-dashboard/static/js/main.c72ef9fa.js",
     "static/js/787.2b8f7fac.chunk.js": "/analytics-dashboard/static/js/787.2b8f7fac.chunk.js",
+    "static/media/user-svgrepo-com.svg": "/analytics-dashboard/static/media/user-svgrepo-com.69e7ba79156bb1ced3a73eded41d4583.svg",
     "static/media/currency-exchange-2.svg": "/analytics-dashboard/static/media/currency-exchange-2.d55ca3d0eff5ef6facc531fc0ad94ec5.svg",
+    "static/media/stock-up-svgrepo-com.svg": "/analytics-dashboard/static/media/stock-up-svgrepo-com.45833493aebb1d3da48a39928eb4fe6f.svg",
+    "static/media/stock-down-svgrepo-com.svg": "/analytics-dashboard/static/media/stock-down-svgrepo-com.872e64b3147f6e9c1c149d8b6f446d9b.svg",
     "static/media/bitcoin-2.svg": "/analytics-dashboard/static/media/bitcoin-2.0fc290eeb06eee20779df88fe636d2d0.svg",
     "index.html": "/analytics-dashboard/index.html",
     "static/media/currency-euro.svg": "/analytics-dashboard/static/media/currency-euro.5a34f9f0ff85094a8e12688be733c8e9.svg",
@@ -13,13 +16,15 @@
     "static/media/metrics.svg": "/analytics-dashboard/static/media/metrics.90b87b060288c4462fab06289d7b6470.svg",
     "static/media/analytics.svg": "/analytics-dashboard/static/media/analytics.ece4adfe65f81b943b9652dfcb569f49.svg",
     "static/media/sound-wave.svg": "/analytics-dashboard/static/media/sound-wave.7435b6881c236a8829eba87f62f9532a.svg",
+    "static/media/down-svgrepo-com.svg": "/analytics-dashboard/static/media/down-svgrepo-com.91f62b0fac68b6dae4549b58a6ba9e03.svg",
     "static/media/e-add.svg": "/analytics-dashboard/static/media/e-add.5867d9164537166ae16f130b8be8cc6c.svg",
-    "main.c5c86689.css.map": "/analytics-dashboard/static/css/main.c5c86689.css.map",
-    "main.9160b08c.js.map": "/analytics-dashboard/static/js/main.9160b08c.js.map",
+    "static/media/up-svgrepo-com.svg": "/analytics-dashboard/static/media/up-svgrepo-com.ad389452973635840e091e3bcc0bb55a.svg",
+    "main.b0eec5d2.css.map": "/analytics-dashboard/static/css/main.b0eec5d2.css.map",
+    "main.c72ef9fa.js.map": "/analytics-dashboard/static/js/main.c72ef9fa.js.map",
     "787.2b8f7fac.chunk.js.map": "/analytics-dashboard/static/js/787.2b8f7fac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5c86689.css",
-    "static/js/main.9160b08c.js"
+    "static/css/main.b0eec5d2.css",
+    "static/js/main.c72ef9fa.js"
   ]
 }
