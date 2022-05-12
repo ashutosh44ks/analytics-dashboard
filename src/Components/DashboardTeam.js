@@ -14,14 +14,14 @@ const DashboardTeam = () => {
             <UserIcon className="user-icon" />
             <small>Andrew Johnston</small>
           </div>
-          <Button size="sm" className="rounded-pill bg-green">Top Trader</Button>
+          <Button size="sm" className="rounded-pill team-btn bg-green">Top Trader</Button>
         </div>
         <div className="dash-member-card mb-2 p-1">
           <div>
             <UserIcon className="user-icon" />
             <small>Anna Atkinsons</small>
           </div>
-          <Button size="sm" className="rounded-pill bg-blue">
+          <Button size="sm" className="rounded-pill team-btn bg-blue">
             Manager
           </Button>
         </div>
@@ -30,7 +30,7 @@ const DashboardTeam = () => {
             <UserIcon className="user-icon" />
             <small>Mark Atkinsons</small>
           </div>
-          <Button size="sm" className="rounded-pill bg-green">
+          <Button size="sm" className="rounded-pill team-btn bg-green">
             Top Trader
           </Button>
         </div>
@@ -39,7 +39,7 @@ const DashboardTeam = () => {
             <UserIcon className="user-icon" />
             <small>Johanna Tairons</small>
           </div>
-          <Button size="sm" className="rounded-pill bg-blue">
+          <Button size="sm" className="rounded-pill team-btn bg-blue">
             Manager
           </Button>
         </div>

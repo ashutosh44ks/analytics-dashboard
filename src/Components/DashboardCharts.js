@@ -5,9 +5,9 @@ import { ReactComponent as StockUpIcon } from "./SVGs/stock-up-svgrepo-com.svg";
 
 const DashboardCharts = () => {
   return (
-    <div className="dash-charts p-4">
+    <div className="dash-charts p-4 pb-2">
       <div className="dash-chart">
-        <div className="dash-chart-country mb-3">Italy</div>
+        <div className="dash-chart-country mb-2">Italy</div>
         <h4 className="color-dark">
           475
           <UpIcon className="dash-trend svg-green ms-1" />
@@ -17,7 +17,7 @@ const DashboardCharts = () => {
         </div>
       </div>
       <div className="dash-chart">
-        <div className="dash-chart-country mb-3">United States</div>
+        <div className="dash-chart-country mb-2">United States</div>
         <h4 className="color-dark">
           431
           <UpIcon className="dash-trend svg-green ms-1" />
@@ -27,7 +27,7 @@ const DashboardCharts = () => {
         </div>
       </div>
       <div className="dash-chart">
-        <div className="dash-chart-country mb-3">Canada</div>
+        <div className="dash-chart-country mb-2">Canada</div>
         <h4 className="color-dark">
           174
           <DownIcon className="dash-trend svg-red ms-1" />
@@ -37,7 +37,7 @@ const DashboardCharts = () => {
         </div>
       </div>
       <div className="dash-chart">
-        <div className="dash-chart-country mb-3">Spain</div>
+        <div className="dash-chart-country mb-2">Spain</div>
         <h4 className="color-dark">
           475
           <UpIcon className="dash-trend svg-green ms-1" />
@@ -47,7 +47,7 @@ const DashboardCharts = () => {
         </div>
       </div>
       <div className="dash-chart">
-        <div className="dash-chart-country mb-3">Japan</div>
+        <div className="dash-chart-country mb-2">Japan</div>
         <h4 className="color-dark">
           134
           <UpIcon className="dash-trend svg-green ms-1" />
@@ -57,7 +57,7 @@ const DashboardCharts = () => {
         </div>
       </div>
       <div className="dash-chart">
-        <div className="dash-chart-country mb-3">South Africa</div>
+        <div className="dash-chart-country mb-2">South Africa</div>
         <h4 className="color-dark">
           431
           <DownIcon className="dash-trend svg-red ms-1" />
