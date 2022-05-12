@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/analytics-dashboard/static/css/main.c5c86689.css",
+    "main.js": "/analytics-dashboard/static/js/main.583b6954.js",
+    "static/js/787.2b8f7fac.chunk.js": "/analytics-dashboard/static/js/787.2b8f7fac.chunk.js",
+    "static/media/currency-exchange-2.svg": "/analytics-dashboard/static/media/currency-exchange-2.d55ca3d0eff5ef6facc531fc0ad94ec5.svg",
+    "static/media/bitcoin-2.svg": "/analytics-dashboard/static/media/bitcoin-2.0fc290eeb06eee20779df88fe636d2d0.svg",
+    "index.html": "/analytics-dashboard/index.html",
+    "static/media/currency-euro.svg": "/analytics-dashboard/static/media/currency-euro.5a34f9f0ff85094a8e12688be733c8e9.svg",
+    "static/media/currency-dollar.svg": "/analytics-dashboard/static/media/currency-dollar.c524001e52197294a4030736a5b275d8.svg",
+    "static/media/currency-yen.svg": "/analytics-dashboard/static/media/currency-yen.c45abea522087f91b6e1f364c3ca312c.svg",
+    "static/media/logout.svg": "/analytics-dashboard/static/media/logout.f78a57e3991969c080136a39e8c5187a.svg",
+    "static/media/metrics.svg": "/analytics-dashboard/static/media/metrics.90b87b060288c4462fab06289d7b6470.svg",
+    "static/media/analytics.svg": "/analytics-dashboard/static/media/analytics.ece4adfe65f81b943b9652dfcb569f49.svg",
+    "static/media/sound-wave.svg": "/analytics-dashboard/static/media/sound-wave.7435b6881c236a8829eba87f62f9532a.svg",
+    "static/media/e-add.svg": "/analytics-dashboard/static/media/e-add.5867d9164537166ae16f130b8be8cc6c.svg",
+    "main.c5c86689.css.map": "/analytics-dashboard/static/css/main.c5c86689.css.map",
+    "main.583b6954.js.map": "/analytics-dashboard/static/js/main.583b6954.js.map",
+    "787.2b8f7fac.chunk.js.map": "/analytics-dashboard/static/js/787.2b8f7fac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5c86689.css",
+    "static/js/main.583b6954.js"
+  ]
+}
