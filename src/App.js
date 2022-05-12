@@ -11,7 +11,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<Navigate replace to="/analytics-dashboard/login" />} />
+        <Route path="/analytics-dashboard" element={<Navigate replace to="/analytics-dashboard/login" />} />
         <Route path="/analytics-dashboard/login" index element={<Page1 />} />
         <Route path="/analytics-dashboard/dashboard" element={<Page2 />} />
       </Routes>
