@@ -8,12 +8,12 @@ import DashboardComparison from "./DashboardComparison";
 const Dashboard = ({ width }) => {
   return (
     <div className="dashboard p-5">
-      <DashboardHeader width={width}/>
+      <DashboardHeader width={width} />
       <DashboardNumbers />
       <DashboardCharts />
       <div className="py-4 dash-details">
         <DashboardTeam />
-        <DashboardComparison  width={width}/>
+        <DashboardComparison width={width} />
       </div>
     </div>
   );

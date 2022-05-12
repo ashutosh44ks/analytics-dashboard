@@ -18,8 +18,26 @@ body {
 .color-green {
   color: #00e38c !important;
 }
+.color-red {
+  color: #ff4b75;
+}
+.svg-green * {
+  stroke: #00e38c !important;
+  fill: #00e38c !important;
+
+}
+.svg-red * {
+  fill: #ff4b75 !important;
+  stroke: #ff4b75 !important;
+}
 .bg-green {
   background-color: #00e38c !important;
+}
+.bg-blue {
+  background-color: #2464fc !important;
+}
+.pointer {
+  cursor: pointer;
 }
 .login {
   display: flex;

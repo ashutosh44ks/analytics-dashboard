@@ -11,6 +11,7 @@
 }
 .user-icon {
   height: 25px;
+  margin-right: 5px;
 }
 
 .dash-numbers {
@@ -22,7 +23,18 @@
   border-right: solid #8990ad 2px;
 }
 .dash-number {
-  padding-right: 3rem;
+  padding-right: 5rem;
+}
+.dash-number > h4 {
+  display: flex;
+  align-items: center;
+}
+.dash-number-trend {
+  font-size: 0.5rem;
+}
+.dash-trend {
+  height: 15px;
+  width: 15px;
 }
 .currency-icon {
   height: 15px;
@@ -60,6 +72,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
+  padding-bottom: 1rem;
 }
 .dash-member-card {
   background-color: white;
@@ -77,7 +90,17 @@
 .progress-bar {
   background-color: #00e38c !important;
 }
-
+@media (max-width: 1200px) {
+  .dash-number {
+    padding-left: 1rem !important;
+    padding-right: 3rem !important;
+  }
+}
+@media (max-width: 1024px) {
+  .dash-number {
+    padding-right: 3rem !important;
+  }
+}
 @media (max-width: 900px) {
   .dash-number {
     padding: 0 2rem 0 2rem !important;

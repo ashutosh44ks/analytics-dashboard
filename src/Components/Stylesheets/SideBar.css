@@ -33,6 +33,9 @@
 .sidemenu-btns.active svg * {
   stroke: #2464fc;
 }
+.sidemenu-btns:hover > svg * {
+  stroke: #2464fc;
+}
 .sidemenu-btns svg * {
   stroke: #b5bad0;
 }
