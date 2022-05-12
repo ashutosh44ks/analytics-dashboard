@@ -1,0 +1,142 @@
+.dashboard {
+  background-color: #fcfcfc;
+  width: 84vw;
+  position: relative;
+  left: 14vw;
+}
+.dashboard-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.user-icon {
+  height: 25px;
+}
+
+.dash-numbers {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.dash-number-b {
+  border-right: solid #8990ad 2px;
+}
+.dash-number {
+  padding-right: 3rem;
+}
+.currency-icon {
+  height: 15px;
+  border-radius: 50%;
+  background: #b9ceff;
+}
+.currency-icon * {
+  stroke: #2464fc;
+}
+
+.dash-charts {
+  box-shadow: 0px 3px 26px #00000017;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+}
+.dash-chart {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.dash-chart-country {
+  color: #495172;
+  font-size: 0.8rem;
+}
+.dash-details {
+  display: flex;
+  justify-content: space-between;
+}
+.dash-details-card {
+  width: 50%;
+}
+.dash-members-head,
+.dash-comparison-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.dash-member-card {
+  background-color: white;
+  box-shadow: 0px 3px 26px #00000017;
+  border-radius: 4px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.dash-comparison-body {
+  background-color: white;
+  box-shadow: 0px 3px 26px #00000017;
+  border-radius: 4px;
+}
+.progress-bar {
+  background-color: #00e38c !important;
+}
+
+@media (max-width: 900px) {
+  .dash-number {
+    padding: 0 2rem 0 2rem !important;
+  }
+  .dash-numbers {
+    justify-content: space-evenly;
+  }
+}
+@media (max-width: 800px) {
+  .dash-number {
+    padding: 0 1rem 0 1rem !important;
+  }
+  .dash-number > h4,
+  .dash-chart > h4 {
+    font-size: 1rem;
+  }
+
+  .dash-details {
+    display: block;
+  }
+  .dash-details-card {
+    width: 100%;
+  }
+}
+@media (max-width: 630px) {
+  .dash-numbers {
+    display: block !important;
+  }
+  .dash-number {
+    border: none !important;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+  }
+  .dash-number > h4 {
+    display: inline-block;
+  }
+  .dash-charts {
+    display: block;
+  }
+  .dash-chart {
+    flex-direction: row;
+    justify-content: space-evenly;
+  }
+  .dash-chart * {
+    display: inline-block;
+  }
+  .dash-chart-country {
+    width: 300px;
+  }
+}
+@media (max-width: 550px) {
+  .dashboard {
+    left: 0;
+    width: 100%;
+  }
+}
+@media (max-width: 450px) {
+  .dashboard-header {
+    display: block;
+  }
+}
