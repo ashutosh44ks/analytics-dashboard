@@ -1,18 +1,7 @@
 import Dashboard from "../Components/Dashboard";
 import SideBar from "../Components/SideBar";
-import { useState, useEffect } from "react";
 
-const Page2 = () => {
-  const [width, setWidth] = useState(window.innerWidth);
-  useEffect(() => {
-    window.addEventListener("resize", resizeSetter);
-    return () => {
-      window.removeEventListener("resize", resizeSetter);
-    };
-  }, [width]);
-  const resizeSetter = () => {
-    setWidth(window.innerWidth);
-  };
+const Page2 = ({ width }) => {
   return (
     <>
       <SideBar width={width} />
